@@ -1,42 +1,42 @@
-# ts-npm-vite-bs Project Setup
 
-## 1. Project Creation
-The project was created using Vite with TypeScript and React:
 
-```sh
-npm create vite@latest ts-npm-vite-bs 
-```
+# 🚀 TINITIATE TypeScript / NPM / Vite / Bootstrap Project
 
-## 2. Navigate to the Project Directory
-```sh
-cd ts-npm-vite-bs
-```
+Welcome to the **TINITIATE Frontend Project** using  
+**TypeScript + NPM + Vite + Bootstrap**.
 
-## 3. Install Dependencies
-Install the required packages:
 
-```sh
-npm install
-```
+---
 
-### 3.1 Install Bootstrap and Required Packages
-```sh
-npm install bootstrap react-bootstrap
-```
+## 📁 Documentation
 
-### 3.2 Install React Router
-```sh
-npm install react-router-dom
-```
+### 1️⃣ **About the Project**
+📂 Folder → `docs/about-project`  
+🔗 Open: [About Project](docs/about-project/README.md)
 
-### 3.3 Install Additional Packages (If Needed)
-If using icons and additional styling:
-```sh
-npm install react-icons
-```
+---
 
-## 4. Start the Development Server
-Run the project in development mode:
-```sh
-npm run dev
-```
+### 2️⃣ **How to Run the Project**
+📂 Folder → `docs/how-to-run`  
+🔗 Open: [How to Run the Project](docs/how-to-run/README.md)
+
+---
+
+### 3️⃣ **Extra Guides**
+📂 Folder → `docs/guides`  
+🔗 Open: [Guides](docs/guides/README.md) 
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|-----------|----------|
+| **TypeScript** | Strongly typed JavaScript |
+| **Vite** | Fast dev server & bundler |
+| **Bootstrap** | UI components & styling |
+| **NPM** | Dependency Manager |
+
+---
+
+
