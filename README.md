@@ -1,6 +1,6 @@
 
 
-# 🚀 TINITIATE TypeScript / NPM / Vite / Bootstrap Project
+# 🚀TypeScript / NPM / Vite / Bootstrap Project
 
 Welcome to the **TINITIATE Frontend Project** using  
 **TypeScript + NPM + Vite + Bootstrap**.
